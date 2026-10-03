@@ -14,6 +14,7 @@ The split: some agents only ever touch public sources - job boards, public web p
 
 - `personas/` - small identity files: who the agent is, its current brief, which skills it uses.
 - `skills/` - reusable capability definitions shared across personas: allowed and banned sources, output contracts, filing rules. Personas reference skills; they do not copy them.
+- `.github/workflows/opencode.yml` - runs opencode on GitHub Actions when the repo owner comments `/oc` on an issue or pull request.
 
 ## Personas
 
