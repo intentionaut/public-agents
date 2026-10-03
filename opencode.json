@@ -1,5 +1,4 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "small_model": "opencode/big-pickle",
-  "share": "disabled"
+  "small_model": "opencode/big-pickle"
 }
